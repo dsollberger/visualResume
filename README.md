@@ -1,4 +1,4 @@
 # visualResume
 a visual resume
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![a Visual Resume](https://github.com/dsollberger/visualResume/blob/master/VisualResumeDerekSollberger.jpeg)
